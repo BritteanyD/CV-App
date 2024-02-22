@@ -1,0 +1,9 @@
+.education-content {
+  display: flex;
+  justify-content: center;
+}
+
+.education-title {
+  font-size: var(--h3-font-size);
+}
+

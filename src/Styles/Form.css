@@ -1,0 +1,25 @@
+::placeholder {
+    color:rgba(196, 74, 74, 0.859);
+}
+
+.form-group {
+    margin: 30px;
+    padding: 20px;
+
+}
+
+.form-title {
+    text-align: center;
+    margin-top: 40px;
+}
+
+label {
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+input, textarea {
+    display: flex;
+    padding: 4px;
+    font-size: 18px;
+}

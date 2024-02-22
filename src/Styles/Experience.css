@@ -1,0 +1,16 @@
+.exp-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.exp-descript{
+    padding-right: 10px;
+    font-size: var(--normal-font-size);
+    text-align: center;
+}
+
+.exp-title{
+    font-size: var(--h3-font-size);
+}
